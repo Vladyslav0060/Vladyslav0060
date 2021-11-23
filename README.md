@@ -18,5 +18,8 @@
 <a href="https://www.instagram.com/whatislov66/"><img align="left" alt="Vladyslav0060 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /></a>
 <br/>
 ### Languages and tools
-<img cursor="none" align="left" alt="HTML" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" />
+<img align="left" alt="HTML" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" />
+<img align="left" alt="CSS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+<img align="left" alt="JS" width="22px" src="https://logowik.com/content/uploads/images/3799-javascript.jpg" />
+
 
