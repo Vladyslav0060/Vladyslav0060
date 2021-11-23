@@ -20,6 +20,6 @@
 ### Languages and tools
 <img align="left" alt="HTML" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" />
 <img align="left" alt="CSS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
-<img align="left" alt="JS" width="22px" src="https://logowik.com/content/uploads/images/3799-javascript.jpg" />
+<img align="left" alt="JS" width="22px" src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png" />
 
 
