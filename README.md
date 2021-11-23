@@ -29,6 +29,7 @@
 <img align="left" alt="NodeJS" width="20px" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" />
 <img align="left" alt="Mongo" width="22px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="Postgre" width="22px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+<img align="left" alt="Grapthql" width="22px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
 <img align="left" alt="Shopify" width="22px" src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" />
 <img align="left" alt="Postman" width="22px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="Java" width="22px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
