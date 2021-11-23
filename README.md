@@ -20,7 +20,7 @@
 ### Languages and tools
 <img align="left" alt="HTML" width="22px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 <img align="left" alt="CSS" width="22px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
-<img align="left" alt="JS" width="20px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
+<img align="left" alt="JS" width="22px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt="Bootstrap" width="22px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
 
 
