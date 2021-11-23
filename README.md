@@ -12,3 +12,5 @@
 
 ### Connect with me
 <a href="https://t.me/whatislov6"><img align="left" alt="Vladyslav0060 | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" /></a>
+<a href="https://www.upwork.com/freelancers/~010a7bf11842c97863"><img align="left" alt="Vladyslav0060 | UpWork" width="22px" src="https://www.svgrepo.com/show/331630/upwork.svg" /></a>
+
