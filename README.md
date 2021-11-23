@@ -28,6 +28,7 @@
 <img align="left" alt="Mongo" width="22px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="Postgre" width="22px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
 <img align="left" alt="Shopify" width="22px" src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" />
+<img align="left" alt="Postman" width="22px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 
 
 
