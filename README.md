@@ -2,12 +2,14 @@
 
 - 🇺🇦 I'm from Ukraine
 - 🏅 FaceIt company member
+- 🇬🇧 English B2+
 - 🎓 Student in the Faculty of Software Engeneering at the Zaporizhia National University
 - 🥅 2021 Goals: Contribute more to interesting projects
 - ⚡ Fun fact: I love to play electric guitar, basketball, interested in crypto
+- ❤️ In love with the clean code
+
 
 ### I'm a Full Stack developer
-
 - My main stacks are MERN, PERN
 
 ### Connect with me
@@ -15,3 +17,5 @@
 <a href="https://www.upwork.com/freelancers/~010a7bf11842c97863"><img align="left" alt="Vladyslav0060 | UpWork" width="22px" src="https://www.svgrepo.com/show/331630/upwork.svg" /></a>
 <a href="https://www.instagram.com/whatislov66/"><img align="left" alt="Vladyslav0060 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /></a>
 
+### Languages and tools
+<img align="left" alt="HTML" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" />
