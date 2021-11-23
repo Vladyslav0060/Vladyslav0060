@@ -12,4 +12,4 @@
 
 ### Connect with me
 
-[<img aling="left" alt="Vladyslav0060 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg"/>][https://t.me/whatislov6]
+[<img align="left" alt="Vladyslav0060 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg"/>][https://t.me/whatislov6]
