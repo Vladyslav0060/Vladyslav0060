@@ -21,12 +21,12 @@
 <img align="left" alt="VSC" width="22px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img align="left" alt="HTML" width="22px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 <img align="left" alt="CSS" width="22px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
-<img align="left" alt="JS" width="22px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
+<img align="left" alt="JS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="Bootstrap" width="22px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
 <img align="left" alt="React" width="22px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Vue" width="22px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />
 <img align="left" alt="NodeJS" width="22px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="NodeJS" width="20px" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" />
+<img align="left" alt="Sql" width="20px" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" />
 <img align="left" alt="Mongo" width="22px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="Postgre" width="22px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
 <img align="left" alt="Grapthql" width="22px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
