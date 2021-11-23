@@ -24,6 +24,7 @@
 <img align="left" alt="CSS" width="22px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
 <img align="left" alt="JS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="Bootstrap" width="22px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
+<img align="left" alt="Docker" width="22px" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" />
 <img align="left" alt="React" width="22px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Vue" width="22px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />
 <img align="left" alt="NodeJS" width="22px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
