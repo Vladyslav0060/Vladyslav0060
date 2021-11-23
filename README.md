@@ -19,4 +19,4 @@
 <br/>
 ### Languages and tools
 
-<img align="left" alt="HTML" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" />
+<img align="left" alt="HTML" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" unselectable="on"/>
