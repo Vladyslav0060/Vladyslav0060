@@ -26,7 +26,7 @@
 <img align="left" alt="React" width="22px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Vue" width="22px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />
 <img align="left" alt="NodeJS" width="22px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="NodeJS" width="22px" src="https://img2.freepng.ru/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" />
+<img align="left" alt="NodeJS" width="22px" src="https://miro.medium.com/max/787/1*IYEvbY1IRNoXRTuAIWpERQ.png" />
 <img align="left" alt="Mongo" width="22px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="Postgre" width="22px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
 <img align="left" alt="Shopify" width="22px" src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" />
