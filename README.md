@@ -18,6 +18,7 @@
 <a href="https://www.instagram.com/whatislov66/"><img align="left" alt="Vladyslav0060 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /></a>
 <br/>
 ### Languages and tools
+<img align="left" alt="VSC" width="22px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img align="left" alt="HTML" width="22px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 <img align="left" alt="CSS" width="22px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
 <img align="left" alt="JS" width="22px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
