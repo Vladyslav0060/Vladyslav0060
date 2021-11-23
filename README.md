@@ -23,6 +23,7 @@
 <img align="left" alt="CSS" width="22px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
 <img align="left" alt="JS" width="22px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt="Bootstrap" width="22px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
+<img align="left" alt="React" width="22px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="NodeJS" width="22px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt="NodeJS" width="22px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="Postgre" width="22px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
