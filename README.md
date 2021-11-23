@@ -23,7 +23,7 @@
 <img align="left" alt="JS" width="22px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt="Bootstrap" width="22px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
 <img align="left" alt="NodeJS" width="22px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="NodeJS" width="22px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
+<img align="left" alt="NodeJS" width="22px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 
 
 
