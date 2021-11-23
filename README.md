@@ -21,6 +21,6 @@
 <img align="left" alt="HTML" width="22px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 <img align="left" alt="CSS" width="22px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
 <img align="left" alt="JS" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
-<img align="left" alt="Bootstrap" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
+<img align="left" alt="Bootstrap" width="23px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
 
 
