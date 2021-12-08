@@ -10,7 +10,6 @@
 
 ### I'm a Full Stack developer
 - My main stacks are MERN, PERN
-- Have basic knowledge of the OOP
 - Always discovering 😉
 
 ### Connect with me
