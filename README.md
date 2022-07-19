@@ -3,10 +3,9 @@
 - 🇺🇦 I'm from Ukraine
 - 🏅 Face-it company member
 - 🇬🇧 English B2+
-- 🎓 Student in the Faculty of Software Engineering at the Zaporizhia National University
+- 🎓 Сompleted a B.A. in Software Engineering at the Zaporizhia National University
 - 🥅 2021 Goals: Contribute more to interesting projects
 - ⚡ Fun fact: I love to play electric guitar, basketball, interested in crypto
-- ❤️ In love with the clean code
 
 ### I'm a Full Stack developer
 - My main stacks are MERN, PERN
