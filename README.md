@@ -4,7 +4,7 @@
 - 🏅 Face-it company member
 - 🇬🇧 English B2+
 - 🎓 Сompleted a B.A. in Software Engineering at the Zaporizhia National University
-- 🥅 2021 Goals: Contribute more to interesting projects
+- 🥅 2022 Goals: Contribute more to interesting projects
 - ⚡ Fun fact: I love to play electric guitar, basketball, interested in crypto
 
 ### I'm a Full Stack developer
